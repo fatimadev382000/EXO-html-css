@@ -1,0 +1,60 @@
+  body{
+    background-color: aliceblue;
+}
+
+  
+    
+.content{
+    border-radius: 10px;
+    width: 800px;
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+  
+  
+    
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border:3px solid white ;
+    margin-top: 60px;
+    border-top: 10px;
+   
+
+}
+button{
+    background-color:rgb(43, 43, 141);
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    margin: 80px;
+    margin-bottom: 100px;
+    
+}
+.item{
+    background-color: white;
+    width: 400;
+    height: 800px;
+    margin-bottom: 30px;
+    
+
+}
+.fond{
+background-color: rgb(43, 43, 141);
+height: 35vh;
+
+
+}
+.icon{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 30px;
+    height: 30px;
+}
+
+
+
