@@ -10,7 +10,7 @@ Description: Ce exercice est un formulaire de connection internet qui demandes d
 ## EXO 2
 Description: Ce exercice est un formulaire de connection internet qui demandes des information aux utulisateur telque le Mail, le mot de passe etc..
 ## Capture d'ecran 
- <img src="Capture-d'ecran/imgexo2.PNG" alt="exo1" width="500" height="200">
+ <img src="Capture-d'ecran/imgexo2.PNG" alt="exo1" width="500" height="300">
  
  ## CSS : les deux input, les icon ,le button etc..
 
@@ -18,7 +18,7 @@ Description: Ce exercice est un formulaire de connection internet qui demandes d
  Description: Ce exercice concerne un profil d'utulisateur internet.
 
  ## Capture d'ecran
- <img src="Capture-d'ecran/Captureexo3.PNG" alt="exo1" width="500" height="200">
+ <img src="Capture-d'ecran/Captureexo3.PNG" alt="exo1" width="500" height="300">
  
  ## CSS : height: 25vh et d'autre propriete css
  
@@ -26,7 +26,7 @@ Description: Ce exercice est un formulaire de connection internet qui demandes d
  Description: ce exercice l'ecran est partager en deux partie une parti pour image et l'autre le formulaire
  
  ## Capture d'ecran
- <img src="Capture-d'ecran/exos sur tailwind.PNG" alt="exo1" width="500" height="200">
+ <img src="Capture-d'ecran/exos sur tailwind.PNG" alt="exo1" width="500" height="300">
  
  ## CSS 
   class="flex justify-between items-center w-full h-screen"
