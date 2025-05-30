@@ -7,7 +7,7 @@
 .content{
     border-radius: 20px;
     width: 600px;
-    height: 740px;
+    height: 780px;
     background-color: white;
     margin: 0 auto;
     text-align: center;
@@ -54,7 +54,7 @@ margin:0 auto;
 .fond{
 background-color: rgb(55, 55, 255);
 border-radius: 10px;
-height: 35vh;
+height: 25vh;
 }
 .icon img{ 
     width: 50px;
@@ -74,9 +74,14 @@ height: 35vh;
     gap: 20px;
     border: 0;
     border-radius: 0%;
+   
 }
 .emoj{
-    height:30vh ;
+    height:10vh ;
+     display: flex;
+     align-items: center;
+     margin-left: 150px;
+     gap: 10px;
 }
 
 

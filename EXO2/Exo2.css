@@ -6,9 +6,10 @@ body{
 main{
 background-color: white;
 width: 400px;
-height: 500px;
+height: 450px;
 margin: 0 auto;
 align-items: center;
+border-radius: 10px;
 }
 h1{
 background-color: rgb(34, 110, 84);
@@ -21,13 +22,13 @@ padding-top: 30px;
 .ip1{
     display: flex;
     justify-content: center;
-    gap: 10px;
+    
 
 }
 input{
     width: 300px;
     height: 40px;
-    margin-left: 0px;
+    margin-left:0px
     border-radius: 4px;
    
 }
@@ -41,17 +42,57 @@ input{
 
 .i1{
     background-color: rgb(7, 104, 72);
-    height: 40px;
-    width: 40px;
-
+    width: 50px;
+    margin-left:0px;
+    
 }
 
 .i2{
+background-color: rgb(7, 104, 72);
+    
+    width: 50px;
+    margin-left:0px;
+}
+.i1 img{
+     width: 30px;
+    margin-left:10px;
+    margin-top: 5px;
+    text-align: center;
+    align-items: center;
+    
+}
+.i2 img{
+     width: 30px;
+    margin-left:10px;
+    margin-top: 5px;
+    margin-left:10px;
+    text-align: center;
+    align-items: center;
+}
+button{
+    background-color: rgb(7, 104, 72);
+    width: 350px;
+    height: 40px;
+    margin: 20px;
+    color: white;
+    
+}
+.p1 a{
+    color: rgb(7, 104, 72);
+    margin-left: 20px;
+    font-size: large;   
 
 }
-.p1{
-
+.p2 a{
+  color: rgb(7, 104, 72);
+    margin-left: 20px;
+    font-size: large;    
 }
 .p2{
-
+    font-size: large;
+ margin-left: 20px;
+ color: black;
+    
+    
 }
+
